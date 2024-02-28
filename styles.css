@@ -20,6 +20,13 @@
     text-decoration: none;
 }
 
+.spacing-anchors {
+    float: left;
+    display: block;
+    border: 1px solid red;
+}
+
+
 h1,
 h2,
 h3,
@@ -37,6 +44,7 @@ body {
 
 .main-portion {
     padding: 0px;
+    border: 1px solid red;
 }
 
 .header-portion {
