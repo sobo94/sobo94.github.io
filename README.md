@@ -18,7 +18,6 @@ I used the following tools, code and libraries:
 	2) Cleaning data using Postal Codes, Timestamp, Address labels and Geolocation. 
 	3) Scripts to extract relevant GeoJson polygons using the GeoPandas.    
 - Github Pages: For hosting the website with the Flourish Embed. 
-- ChatGpt for answering all the mini questions and code snippets.
 
 ----
 ## E07: Analysis, Thoughts and things I found interesting.
@@ -34,7 +33,6 @@ I used the following tools, code and libraries:
 - Time format in flourish: Using YYYY-MM-DD format helps with sorting based on time. Millisecond precision time is a layer on insanity I don't want to know about.
 - Your home location, roads and city around you sets your travel radius. 
 - Labels over time: Conestoga Changed it's campus labels atleast 3 times as more campuses were built.
-- Home location is both super useful and super confusing to deal with. I removed it from my 
 - Given a span of 30 years, I had to make a design choices as to how many chapters to include, two major consideration were people, new location and phases of life.
 - Removing Rows: Use Postal Code to remove rows you don't want. I wrote many variations of scripts to perform basic CRUD operation. it gets complicated really fast.
   
