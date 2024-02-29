@@ -24,4 +24,4 @@ I used the following tools, code and libraries:
 
 ----
 ## Reading list
-- WGS: https://en.wikipedia.org/wiki/World_Geodetic_System
+- WGS84: https://en.wikipedia.org/wiki/World_Geodetic_System
