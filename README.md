@@ -1,7 +1,7 @@
 # Data Kahani Website
 A home for my projects, tutorials and other relevant docs.
 #### Link: https://sobo94.github.io/
-
+#### Link: 
 ----
 ## The Making of my Biography.
 This project took some months to make and was indeed a very nostalgic project.
@@ -18,3 +18,10 @@ I used the following tools, code and libraries:
 	2) Cleaning data using Postal Codes, Timestamp, Address labels and Geolocation. 
 	3) Scripts to extract relevant GeoJson polygons using the GeoPandas.    
 - Github Pages: For hosting the website with the Flourish Embed. 
+
+----
+
+
+----
+## Reading list
+- WGS: https://en.wikipedia.org/wiki/World_Geodetic_System
