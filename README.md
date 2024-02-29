@@ -25,7 +25,7 @@ I used the following tools, code and libraries:
 - My School in Dubai, Dubai Scholars was actually at the border and technically in Sharjah. The GeoJson for Dubai actually gets that right.
 - The trip to Nothern Pakistan consisted of driving on semi permenant roads off the mountains. K2 the second highest mountain peak is located there.
 - I am still close friends with all my childhood besties. 
-- Google timeline gets labels correct down to the building and the room numbers. A silent contributor to this might be MappedIn based out of Waterloo.
+- Google timeline gets labels correct down to the building and the room numbers.
 - Older buildings like PAS (physcology, anthropology and Sociology building) the second most frequently visited building was never in my timeline.
   the building is made from concrete and I suspect it to be a geolocation deadzone.
 - The 10 years google timeline data shows the transition of companies and businesses that were in a particular building. Example: Gas stations transitioned from ESSO to Mac to PetroCanada.
