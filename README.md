@@ -1,10 +1,9 @@
 # Data Kahani Website
 A home for my projects, tutorials and other relevant docs.
 #### Link: https://sobo94.github.io/
-#### Link: 
 
 ----
-This project took some months to make and was indeed a very nostalgic project.
+This project took some months to make and was indeed a nostalgic project.
 I used the following tools, code and libraries:
 
 - Flourish Studio

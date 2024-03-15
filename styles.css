@@ -1,10 +1,6 @@
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Oswald"
+/* Font Styles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Oswald";
 }
 
 /* Navigation Bar */
@@ -42,4 +38,24 @@ body {
     padding: 0px;
 }
 
+/* Pagination Styles */
+.pagination {
+    display: flex;
+    margin-left: auto;
+    padding-right: 20px;
+}
+
+.pagination button {
+        background-color: #333;
+        color: white;
+        border: none;
+        padding: 10px;
+        margin: 0 5px;
+        cursor: pointer;
+}
+
+.pagination button.active {
+            background-color: #ddd;
+         color: black;
+ }
 
