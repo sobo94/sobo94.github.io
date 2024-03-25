@@ -17,4 +17,5 @@ I used the following tools, code and libraries:
 	2) Cleaning data using Postal Codes, Timestamp, Address labels and Geolocation. 
 	3) Scripts to extract relevant GeoJson polygons using the GeoPandas.    
 - Github Pages: For hosting the website with the Flourish Embed. 
+- MappedIn: For Indoor Navigation to a Booking Location.
 ----
