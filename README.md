@@ -5,8 +5,7 @@ A home for my projects, tutorials and other relevant docs.
 ----
 ## Geospatial Biography
 A lifetime project to be updated after significant life events. 
-I tried to be historically and technologically accurate. 
-A way to promote the cool work in the Mapping Community.     
+I tried to be historically and technologically accurate.   
 
 ----
 ## About the project
