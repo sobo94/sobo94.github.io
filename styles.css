@@ -1,7 +1,6 @@
 /* Font Styles */
 h1, h2, h3, h4, h5, h6 {
     font-family: "Oswald";
-    color: white;
 }
 
 /* Navigation Bar */
@@ -35,11 +34,14 @@ body {
 }
 
 .section-1 {
-    background-color: #333;
     text-align:center;
 }
 
-
+.divider {
+    text-align: center;
+    background-color: black;
+    color: black;
+}
 
 /* Section Styles */
 audio {
