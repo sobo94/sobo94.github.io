@@ -4,11 +4,11 @@ A home for my projects, tutorials and other relevant docs.
 
 ----
 ## Geospatial Biography
-A lifetime project to map significant events of my life. This project took some months to make and was indeed a nostalgic project.
+A project to map significant events of my life. This project took some months to make and was indeed a nostalgic project.
 I used the following tools, code and libraries:
 
 - Flourish Studio: For Data Visualization and Storytelling.
-- Google Services: Android, Takeout, Maps and Timeline. 
+- Google Services: Phone, Android, Takeout, Maps and Timeline. 
 - Ontario GeoHub:  For Official municipality polygon of Ontario.
 - GeoJson.io:  For coordinate information and custom GeoJSON.
 - Maputnik: An Open Source Map designing tool, was helpful to understand map zooming, its relationship
