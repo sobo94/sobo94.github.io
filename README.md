@@ -20,3 +20,7 @@ I used the following tools, code and libraries:
 
 - Mapped In: For Indoor Maps with wayfinding capabilities.
 - Github Pages: For hosting the website with the Flourish Embed.
+
+Note: Google timeline exports has been discontinued. 
+
+----
