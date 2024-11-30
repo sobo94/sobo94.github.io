@@ -1,12 +1,16 @@
 # Data Kahani Website
-A home for my projects, tutorials and other relevant docs.
-#### Link: https://sobo94.github.io/
+Data Kahani website is place where I host my projects in the Maps and Visualization space. The website serves 
+the purpose of presenting on Youtube, in virtual meetings and in person presentation at local conferences and
+meetup. 
+
+#### Website: https://sobo94.github.io/
 
 ----
 ## Geospatial Biography
-A project to map significant events of my life. This project took some months to make and was indeed a nostalgic project.
-I used the following tools, code and libraries:
+A project to map significant events of my life. The first 20 years were manually plotted while the last 10 years comes
+from cell phone dataset. The biography is set to three (3) minutes and serves as a great introduction.
 
+Useful tools:
 - Flourish Studio: For Data Visualization and Storytelling.
 - Google Services: Phone, Android, Takeout, Maps and Timeline. 
 - Ontario GeoHub:  For Official municipality polygon of Ontario.
@@ -16,11 +20,56 @@ I used the following tools, code and libraries:
 - Python Scripts: 
 	1) Scripts to extract relevant JSON into CSV format using Pandas. 
 	2) Cleaning data using Postal Codes, Timestamp, Address labels and Geolocation. 
-	3) Scripts to extract relevant GeoJSON polygons using the GeoPandas.    
+	3) Scripts to extract relevant GeoJSON polygons using the GeoPandas.
+	4) Google Translation Library and Google Sheets Transalation functions. 
 
-- Mapped In: For Indoor Maps with wayfinding capabilities.
 - Github Pages: For hosting the website with the Flourish Embed.
 
 Note: Google timeline exports has been discontinued. 
 
 ----
+## The Hans Rosling
+The Hans Rosling is a really popular visualization. 
+
+### To Fix
+- Population in Millions.
+- Add $ suffix to GDP values.
+- Review Popup customization.
+
+----
+## The US Population Map
+ My first exposure to US maps and it puts into context the cities we all hear about and where they 
+ actually are on a map. Top 80 cities in the US with Population greater than 500 Thousand.
+
+
+### Todo
+- Add something interesting about the city and reduce the city count.
+- Figure out pop up customization for US Population Maps.
+- Readup on FIPS Codes, AlberUSA Projection and see what can be done with Ontario's GeoJson.
+
+----
+## Important Earthquakes of Canada
+A timeseries map visualizing the important earthquakes that have occurred in Canada since the 1600s. 
+This project utilizes dataset published by Natural Resource Canada.
+
+### To Fix
+- Remove episode #
+- Unbolden data source. 
+- Synchronize Fonts and footer and source section.
+
+----
+## Canadian Cities Housing Prices
+A timeseries racing bar graph comparing the housing prices of various Canadian Cities in the 
+different provinces of Canada. The project utilizes the data table published by Statistics Canada.
+the dataset is normalized to end of 2016 where all cities are priced at 100% and the relative prices
+increment of each city is compared to from that point.
+
+----
+## Other Works
+
+- Youtube Studio Anaylsis : 
+- Canadian tech before 1995 : https://www.youtube.com/watch?v=IbdA33OxemI
+- Canadian tech before 2000 : https://youtu.be/HnwJiYIGP7s?si=WYRZGgx3qjMrEjoN
+- Pakistani Skyscrapers : https://www.youtube.com/watch?v=agAgWMF3FBw
+- CEC Marketting Impact Dashboard : https://www.youtube.com/watch?v=YQD1D_5z5hU
+- Gaming Consoles Sales Dashboard - Sankey Style dashboard
