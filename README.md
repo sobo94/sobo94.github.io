@@ -29,7 +29,7 @@ Note: Google timeline exports has been discontinued.
 
 ----
 ## The Hans Rosling
-The Hans Rosling is a really popular visualization. 
+The Hans Rosling is a really popular visualization. It compares the life expectancy and GDP per capita of countries.
 
 ----
 ## The US Population Map
@@ -49,15 +49,16 @@ the dataset is normalized to end of 2016 where all cities are priced at 100% and
 increment of each city is compared to from that point.
 
 ----
-## Arctic neighbours of Canada
-Canada has 10 countries as its Arctic Neighbours. This project visualizes the Arctic neighbours of Canada.
+## Arctic Marine Shipping Incidents
+A new projection map which focuses on the arctic region. It shows the 10 Arctic Neighbours of canada. 
+This project visualizes the shipping incidents that occur in the Arctic Region.
 
+- Report: [Arctic Marine Shipping](https://cil.nus.edu.sg/wp-content/uploads/2014/06/2009-Arctic-Marine-Shipping.pdf)
 ----
-## Other Works
+## Other Works 
 
-- Youtube Studio Anaylsis : 
-- Canadian tech before 1995 : https://www.youtube.com/watch?v=IbdA33OxemI
-- Canadian tech before 2000 : https://youtu.be/HnwJiYIGP7s?si=WYRZGgx3qjMrEjoN
-- Pakistani Skyscrapers : https://www.youtube.com/watch?v=agAgWMF3FBw
-- CEC Marketting Impact Dashboard : https://www.youtube.com/watch?v=YQD1D_5z5hU
-- Gaming Consoles Sales Dashboard - Sankey Style dashboard
+- Video: [Canadian tech before 1995](https://www.youtube.com/watch?v=IbdA33OxemI)
+- Video: [Canadian tech before 2000](https://youtu.be/HnwJiYIGP7s?si=WYRZGgx3qjMrEjoN)
+- Video: [Pakistani Skyscrapers](https://www.youtube.com/watch?v=agAgWMF3FBw)
+- Video: [CEC Marketting Impact Dashboard](https://www.youtube.com/watch?v=YQD1D_5z5hU)
+- Gaming Consoles Sales Dashboard: Sankey Style dashboard
