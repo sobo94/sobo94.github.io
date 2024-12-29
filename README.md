@@ -31,31 +31,15 @@ Note: Google timeline exports has been discontinued.
 ## The Hans Rosling
 The Hans Rosling is a really popular visualization. 
 
-### To Fix
-- Population in Millions.
-- Add $ suffix to GDP values.
-- Review Popup customization.
-
 ----
 ## The US Population Map
  My first exposure to US maps and it puts into context the cities we all hear about and where they 
  actually are on a map. Top 80 cities in the US with Population greater than 500 Thousand.
 
-
-### Todo
-- Add something interesting about the city and reduce the city count.
-- Figure out pop up customization for US Population Maps.
-- Readup on FIPS Codes, AlberUSA Projection and see what can be done with Ontario's GeoJson.
-
 ----
 ## Important Earthquakes of Canada
 A timeseries map visualizing the important earthquakes that have occurred in Canada since the 1600s. 
 This project utilizes dataset published by Natural Resource Canada.
-
-### To Fix
-- Remove episode #
-- Unbolden data source. 
-- Synchronize Fonts and footer and source section.
 
 ----
 ## Canadian Cities Housing Prices
@@ -63,6 +47,10 @@ A timeseries racing bar graph comparing the housing prices of various Canadian C
 different provinces of Canada. The project utilizes the data table published by Statistics Canada.
 the dataset is normalized to end of 2016 where all cities are priced at 100% and the relative prices
 increment of each city is compared to from that point.
+
+----
+## Arctic neighbours of Canada
+Canada has 10 countries as its Arctic Neighbours. This project visualizes the Arctic neighbours of Canada.
 
 ----
 ## Other Works
